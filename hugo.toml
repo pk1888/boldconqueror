@@ -54,3 +54,6 @@ theme = "Niello"
       name = '联系我们'
       pageRef = '/contact'
       weight = 4
+
+[outputs]
+  home = ["HTML", "JSON"]  # Generates both HTML and JSON output for the homepage
