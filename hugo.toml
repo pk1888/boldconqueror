@@ -144,3 +144,6 @@ pygmentsUseClasses = true
   # guessSyntax = true
   # lineNos = true
   # style = "monokai"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] # Necessary for search
