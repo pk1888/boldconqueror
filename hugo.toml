@@ -29,7 +29,7 @@ buildExpired = false
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = false
+  ShowCodeCopyButtons = true
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
@@ -100,7 +100,7 @@ buildExpired = false
     hiddenInSingle = true  # hide on single page
 
   [params.editPost]
-    URL = "https://github.com/<path_to_repo>/content"
+    URL = "https://github.com/pk1888/boldconqueror/issues"
     Text = "Suggest Changes" # edit text
     appendFilePath = true  # to append file path to Edit link
 
