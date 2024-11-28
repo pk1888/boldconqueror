@@ -1,4 +1,6 @@
 baseURL = "https://tartantreks.co.uk/"
+relativeURLs = false
+canonifyURLs = true
 title = "ExampleSite"
 theme = "PaperMod"
 
