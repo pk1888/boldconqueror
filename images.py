@@ -3,7 +3,7 @@ import re
 import shutil
 
 # Paths (using raw strings to handle Windows backslashes correctly)
-posts_dir = r"C:\Users\polza\Documents\boldconqueror\content\posts"
+posts_dir = r"\\192.168.68.114\Second Brain\SecondBrain\posts"
 attachments_dir = r"\\192.168.68.114\Second Brain\SecondBrain\Attachments"
 static_images_dir = r"C:\Users\polza\Documents\boldconqueror\content\static\images"
 
