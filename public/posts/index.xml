@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ExampleSite</title>
-    <link>https://examplesite.com/posts/</link>
+    <link>https://tartantreks.co.uk/posts/</link>
     <description>Recent content in Posts on ExampleSite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tartantreks.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 2nd post</title>
-      <link>https://examplesite.com/posts/test/</link>
+      <link>https://tartantreks.co.uk/posts/test/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/test/</guid>
+      <guid>https://tartantreks.co.uk/posts/test/</guid>
       <description>&lt;p&gt;Hello there&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Hello there</p>
 ]]></content:encoded>
@@ -20,10 +20,10 @@
     
     <item>
       <title>My 1st post</title>
-      <link>https://examplesite.com/posts/hello/</link>
+      <link>https://tartantreks.co.uk/posts/hello/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/hello/</guid>
+      <guid>https://tartantreks.co.uk/posts/hello/</guid>
       <description>&lt;p&gt;Hello there&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Hello there</p>
 ]]></content:encoded>
