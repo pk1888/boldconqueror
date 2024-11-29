@@ -25,6 +25,7 @@ buildExpired = false
   defaultTheme = "auto" # options: dark, light
   disableThemeToggle = false
 
+  enableSearch = true
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
