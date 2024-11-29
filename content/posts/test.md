@@ -5,4 +5,6 @@ tags:
   - first
 categories: archives
 ---
-Hello there
+Hello there!
+
+![[Feel the Magic of Christmas ✨  A Festive Sensory Journey.png]]
