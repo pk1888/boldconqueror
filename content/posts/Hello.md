@@ -6,3 +6,5 @@ tags:
 categories: archives
 ---
 Hello there
+
+![[flag-scotland-wallpaper-8aeae14ff7a162349df41a19560dcb17.jpg]]
