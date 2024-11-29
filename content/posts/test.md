@@ -7,4 +7,4 @@ categories: archives
 ---
 Hello there!
 
-![[Feel the Magic of Christmas.png]]
+!![Image Description](/images/Feel%20the%20Magic%20of%20Christmas.png)
