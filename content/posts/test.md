@@ -7,4 +7,4 @@ categories: archives
 ---
 Hello there!
 
-!![Image Description](/images/Feel%20the%20Magic%20of%20Christmas%20✨%20%20A%20Festive%20Sensory%20Journey.png)
+![[Feel the Magic of Christmas ✨  A Festive Sensory Journey 1.png]]
