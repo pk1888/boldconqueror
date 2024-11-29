@@ -5,11 +5,11 @@ tags:
   - first
 categories: archives
 cover:
-    image: "<image path/url>" # image path/url
+    image: /images/Feel%20the%20Magic%20of%20Christmas.png
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 Hello there!
 
