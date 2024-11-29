@@ -7,4 +7,6 @@ categories: archives
 ---
 Hello there!
 
-!![Image Description](/images/Feel%20the%20Magic%20of%20Christmas.png)
+just testing
+
+![Image Description](/images/Feel%20the%20Magic%20of%20Christmas.png)
